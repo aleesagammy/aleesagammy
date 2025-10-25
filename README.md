@@ -10,7 +10,7 @@ One day I am going to go back to univertisy for Philosophy, and leave everything
 ### what im working on and will be working towards
 - Linux
 - Acquiring actual fluency with Git
-- Cloud Computing
+- Cloud Computing and Networks
 - Kubernetes
 - Differentiating what I love from what I hate
 
